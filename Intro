@@ -1,0 +1,15 @@
+#introduction to the javascript 
+- Developers generally prefer JavaScript because it can be used to build front-end and back-end.
+- Data types
+• Primitive data structure is a kind of data structure that stores the data of only one type. 
+- String: An array data structure of bytes (or words) that stores a sequence of elements.
+- Number: A number indicates an amount and can be either a whole number, a positive or negative number, or a floating point number.
+- Boolean: It is a data type that can hold either a True or a False value.
+• Non-primitive data structure is a type of data structure that can store the data of more than one type.
+- The static type of a variable is the type of the variable given in its declaration. 
+- The dynamic type of a variable is the type of the value in the variable.
+- Array: A user-defined data type that represents a collection of elements, or values, that are ordered and each selected by one or more indices
+- Object: The Object data type can point to data of any data type, including any object instance your application recognizes.
+• Declaration of variable in javascript: 
+- 'Let' keyword:To declare a variable that is more block-scoped.
+- 'Const' keyword:To declare a variable that is constant, meaning that its value cannot be changed.
