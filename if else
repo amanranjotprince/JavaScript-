@@ -1,0 +1,5 @@
+# conditional statements -- if, else, else if statements
+- conditional statements are used to perform different actions based on different conditions.
+- if statement: a block of code to be executed, if a specified condition is true.
+- else statement: a block of code to be executed, if the same condition is false.
+- else if statement: a new condition to test, if the first condition is false.
